@@ -1,0 +1,101 @@
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.exe
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.deps.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.runtimeconfig.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.Core.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\scopedcss\bundle\Bookstore.WebApi.styles.css
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\staticwebassets\Bookstore.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.CopyComplete
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\refint\Bookstore.WebApi.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\ref\Bookstore.WebApi.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.exe
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.deps.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.runtimeconfig.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.runtimeconfig.dev.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\ref\Bookstore.WebApi.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.WebApi.pdb
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\DnsClient.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\SharpCompress.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\bin\Debug\net5.0\Bookstore.Core.pdb
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.AssemblyReference.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.AssemblyInfoInputs.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.AssemblyInfo.cs
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.CoreCompileInputs.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\staticwebassets\Bookstore.WebApi.StaticWebAssets.Manifest.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\staticwebassets\Bookstore.WebApi.StaticWebAssets.xml
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\scopedcss\bundle\Bookstore.WebApi.styles.css
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.RazorTargetAssemblyInfo.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.csproj.CopyComplete
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\ref\Bookstore.WebApi.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.pdb
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.WebApi\obj\Debug\net5.0\Bookstore.WebApi.genruntimeconfig.cache

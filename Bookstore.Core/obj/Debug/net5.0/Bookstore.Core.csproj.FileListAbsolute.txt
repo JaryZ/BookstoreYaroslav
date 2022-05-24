@@ -1,0 +1,24 @@
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.deps.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\refint\Bookstore.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\ref\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.deps.json
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\ref\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.pdb
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.AssemblyReference.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfoInputs.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfo.cs
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\ref\Bookstore.Core.dll
+D:\Shpak_Progect\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.pdb
